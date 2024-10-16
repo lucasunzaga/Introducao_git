@@ -10,5 +10,5 @@ git push origin main
 
 agora estamos na branch nova
 
-git checkout -b dev - trocar de brench
+git checkout -b dev - trocar de brench ("-b" é usado para criar uma branch nova)
 
